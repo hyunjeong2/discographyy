@@ -1,0 +1,65 @@
+/* INDEX*/
+.h1{
+	text-align: center;
+	font-size: 40px;
+}
+
+.image {
+	position:absolute;
+	top:60%;
+	left:50%;
+	margin-top:-320px;
+	margin-left: -480px;
+}
+
+.image:hover {
+	position:absolute;
+	top:60%;
+	left:50%;
+	margin-top:-320px;
+	margin-left: -480px;
+	border:1px solid white;
+}
+
+.image:active {
+    border-color: hotpink;
+		text-decoration: none;
+}
+
+body{
+	background-color: black;
+}
+
+p{
+	color:white;
+}
+
+a{
+	color:white;
+	text-decoration: none;
+}
+
+a:hover {
+    color:;
+    background-color: transparent;
+		text-decoration:   underline;
+}
+
+a:active {
+    color: hotpink;
+		text-decoration: none;
+}
+
+/* ALBUM */
+.albumcover{
+	position:absolute;
+	top:60%;
+	left:50%;
+	margin-top:-320px;
+	margin-left: -402px;
+}
+
+/* 20 */
+.table20{
+	color:white;
+}
