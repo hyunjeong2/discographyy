@@ -1,0 +1,32 @@
+
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+
+ .intro {
+   font-size:20px;
+   font-style: italic;
+ }
+
+ p{
+   margin: 16px;
+ }
+
+ /* style the default link color */
+ a:link {
+   color: #52736B
+ }
+
+ /* style visited links */
+ a:visited {
+   color: #093844;
+ }
+
+ /* style hover/focus links */
+ a:hover,
+ a:active,
+ a:focus {
+   color: #D94214;
+ }

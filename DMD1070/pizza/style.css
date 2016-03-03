@@ -1,0 +1,19 @@
+body {
+  background-color: #EBE4C4;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #B44418;
+  color: #EBE4C4;
+  margin: 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.title {
+  font-size: 60px;
+  font-style: italic;
+  font-family: Georgia, serif;
+}
